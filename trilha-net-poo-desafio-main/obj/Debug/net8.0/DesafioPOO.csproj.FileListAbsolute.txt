@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net8.0\DesafioPOO.exe
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net8.0\DesafioPOO.deps.json
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net8.0\DesafioPOO.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net8.0\DesafioPOO.dll
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net8.0\DesafioPOO.pdb
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\DesafioPOO.dll
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\refint\DesafioPOO.dll
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\DesafioPOO.pdb
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net8.0\ref\DesafioPOO.dll
